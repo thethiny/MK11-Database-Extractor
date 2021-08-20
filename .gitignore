@@ -1,0 +1,7 @@
+out.*
+x64
+*.exe
+Data
+Extracted
+utils/CPPython
+.vs
